@@ -9,8 +9,7 @@
 🔗 Open to collaboration, contributions, and learning opportunities in QA and automation domains.<br><br>
 ✨ On a journey to become a Full-Stack QA Automation Engineer.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dkaushal.46) 
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshansh-kaushal-00a031231) 
 
 # 💻 Tech Stack:
