@@ -2,17 +2,19 @@ name: GitHub Snake animation
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs at the start of every hour
-  workflow_dispatch:      # allows manual triggering
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Generate GitHub Snake
-        uses: Platane/snk@v2.0.0
+        uses: Platane/snk@v2.3.0  # use latest stable version
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: output/snake.svg
+          github_user_name: dkaushal46
+          outputs: output/snake.svg
