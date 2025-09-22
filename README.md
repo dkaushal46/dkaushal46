@@ -53,13 +53,13 @@
 
 ---
 
-## 📊 GitHub Stats  
 
 ## 📊 GitHub Stats  
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkaushal46&theme=tokyonight&show_icons=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkaushal46&theme=tokyonight&hide_border=false) |
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaushal46&theme=tokyonight&layout=compact&langs_count=8) | ![Profile Views](https://komarev.com/ghpvc/?username=dkaushal46&label=Profile%20Views&color=0e75b6&style=flat) |
+
 
 ---
 
