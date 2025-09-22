@@ -63,6 +63,6 @@
 
 ## 🐍 GitHub Activity Snake
 
-![GitHub Snake animation](https://raw.githubusercontent.com/dkaushal46/dkaushal46/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/dkaushal46/dkaushal46/main/output/dist/snake.svg)
 
 
