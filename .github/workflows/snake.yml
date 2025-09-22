@@ -1,6 +1,5 @@
 name: GitHub Snake animation
 
-# Trigger: every hour + manual run
 on:
   schedule:
     - cron: '0 * * * *'  # runs at the start of every hour
@@ -9,15 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      # 2️⃣ Generate GitHub Snake
       - name: Generate GitHub Snake
         uses: Platane/snk@v2.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: output/snake.svg  # path in your repo
+          output: output/snake.svg
