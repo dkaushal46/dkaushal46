@@ -1,0 +1,19 @@
+name: GitHub Snake animation
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v1
+        with:
+          github_user_name: dkaushal46
+          svg_out_path: output/snake.svg
+          gif_out_path: output/snake.gif
