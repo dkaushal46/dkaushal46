@@ -1,23 +1,26 @@
-# 💫 About Me:
-🎯 **Aspiring QA Test Engineer** with a strong passion for ensuring **software quality, reliability, and performance**.  
-<br>
+# 👋 Hi, I'm Dikshansh Kaushal  
 
-🔍 Currently diving deep into **Selenium with Java**, while exploring **TestNG, Maven, and Page Object Model (POM)** for building efficient automation frameworks.  
-<br>
+💻 **Aspiring QA Test Engineer** | Passionate about building reliable, high-quality software through **Manual & Automation Testing**.  
+🚀 On a journey to become a **Full-Stack QA Automation Engineer**.  
 
-✅ Experienced in **Manual Testing, Bug Tracking, Test Case Design, and Test Execution** with a solid foundation in QA principles.  
-<br>
+---
 
-🚀 Expanding knowledge in **Automation Testing, API Testing (Postman basics), and Version Control (Git & GitHub)**.  
-<br>
+## 💫 About Me
+- 🎯 Strong foundation in **Manual Testing, Bug Tracking, Test Case Design, and Test Execution**.  
+- 🔍 Currently learning **Selenium with Java**, exploring **TestNG, Maven, and Page Object Model (POM)**.  
+- 🚀 Expanding skills in **API Testing (Postman basics)**, **Git/GitHub**, and **Automation Frameworks**.  
+- 🧠 Continuously improving knowledge of **SDLC & STLC**.  
+- 💡 Enthusiastic about debugging, problem-solving, and writing **clean, maintainable test scripts**.  
+- ✨ Open to **collaboration, contributions, and learning opportunities** in QA and automation.  
 
-🧠 Continuously learning about **SDLC & STLC**, improving testing strategies, and enhancing debugging/problem-solving skills.  
-<br>
+---
 
-💡 Enthusiastic about writing **clean, maintainable, and reusable test scripts**, while practicing real-world QA scenarios and frameworks.  
-<br>
-
-✨ On a journey to become a **Full-Stack QA Automation Engineer**, open to collaboration and contributions in the QA & automation domain.  
+## 🛠️ Currently Learning
+- Selenium with Java  
+- TestNG & Maven  
+- Page Object Model (POM)  
+- API Testing (Postman)  
+- Advanced Git & GitHub workflows  
 
 ---
 
@@ -26,7 +29,8 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
+
 ### 🖥 Programming Languages  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -34,7 +38,7 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)  
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 
-### ☁️ Cloud & Tools  
+### ☁️ Tools & Platforms  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
@@ -42,13 +46,24 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dkaushal46&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com?user=dkaushal46&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaushal46&theme=tokyonight&hide_border=false&layout=compact)  
+## 📂 Featured Projects
+- 🚀 [**ProjectGenius**](#) – Project Assistance Management Tool (Efficiency booster for team projects).  
+- 📚 [**PDFInsight**](#) – Chat with PDFs using **LangChain & OpenAI**.  
+- 🤖 [**Real-Time Video Analysis**](#) – Object detection with OpenCV & Deep Learning at 30 FPS.  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dkaushal46&icon=2&color=13)](https://visitcount.itsvg.in)  
+## 📊 GitHub Stats  
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaushal46&theme=tokyonight&show_icons=true&count_private=true) | ![Streak](https://streak-stats.demolab.com?user=dkaushal46&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaushal46&theme=tokyonight&layout=compact) | ![Profile Views](https://visitcount.itsvg.in/api?id=dkaushal46&icon=2&color=13) |
+
+---
+
+## 🐍 GitHub Activity Snake
+![Snake animation](https://github.com/dkaushal46/dkaushal46/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
