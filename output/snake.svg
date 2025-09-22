@@ -1,4 +1,8 @@
-name: GitHub Snake animation
+- name: Generate GitHub Snake
+  uses: Platane/snk@v2.0.0
+  with:
+    github_user_name: dkaushal46
+    output: output/snake.svg
 
 on:
   schedule:
