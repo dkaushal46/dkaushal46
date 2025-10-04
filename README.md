@@ -13,30 +13,42 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshansh-kaushal-00a031231)  
+<p align="center">
+  <a href="https://linkedin.com/in/dikshansh-kaushal-00a031231">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 
 ---
 
 # 💻 Tech Stack  
+
 **Programming & Scripting**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+</p>
 
 **QA & Testing Tools**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![TestNG](https://img.shields.io/badge/-TestNG-%23E34F26?style=for-the-badge&logoColor=white)  
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/-TestNG-%23E34F26?style=for-the-badge&logoColor=white" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 **Cloud & Version Control**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
+
 
 # 📂 Projects  
 
@@ -63,11 +75,12 @@ Built using **Python, NLP, and vector databases** — great example of automatio
 
 ---
 
-# 📊 GitHub Stats (2×2 Compact Layout)
-
-| ![Commits](https://camo.githubusercontent.com/2e7db0e1eb8ebeef5dd61220f9101d1880ff8058ae50c40e22509b423eebe7c0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646b61757368616c3436267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565) | ![Streak](https://camo.githubusercontent.com/65aea81d1559e8a9ba896ab38bfe1561227770f3c99361b66f08b9426eb78a7a/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d646b61757368616c3436267468656d653d6461726b26686964655f626f726465723d66616c7365) |
-| --- | --- |
-| ![Top Languages](https://camo.githubusercontent.com/d10f40cf9e197df3393f598fb8345c62752f98992a6f7eb0dcea4b9e94ac1630/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d646b61757368616c3436267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374) | ![Profile Views](https://komarev.com/ghpvc/?username=dkaushal46&color=0e75b6&style=flat) |
+# 📊 GitHub Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-olive.vercel.app?user=dkaushal46&theme=dark&hide_border=true&card_width=498" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ---
