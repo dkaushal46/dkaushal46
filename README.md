@@ -95,4 +95,9 @@ Built using **Python, NLP, and vector databases** — great example of automatio
 
 ---
 
+![Dikshansh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkaushal46&theme=react-dark&area=true&hide_border=true)
+
+
+---
+
 🔗 Feel free to **connect, collaborate, or check out my projects**!
